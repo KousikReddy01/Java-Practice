@@ -24,6 +24,7 @@ public class DataTypeDemo {
 		System.out.println(d);
 		System.out.println(c);
 		System.out.println(b2);
+		System.out.println("Hello");
 		
 		char c1 = 'A';
 		char c2 = 'a';
